@@ -1,0 +1,8 @@
+Columns:
+id int AI PK 
+username varchar(45) 
+password varchar(255) 
+email varchar(45) 
+name varchar(100) 
+age int 
+dob date
